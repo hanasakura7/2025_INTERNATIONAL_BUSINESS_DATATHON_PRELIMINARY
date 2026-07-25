@@ -13,7 +13,7 @@ Bachelor of Computer Science with Honours, UUM
 
 **Submission date:** 20 October 2025
 
-🔗 ** Public Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiYTI0MzRiYzUtYWNjOC00ODRiLTgyMjktNDY0ZmJkN2ViYmE2IiwidCI6ImQ0OTRlMTEzLTUyOGUtNDBhYi05MGQ5LTE2MmRlMmZjYTNmMyIsImMiOjEwfQ%3D%3D) **
+🔗 ** Public Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiYTI0MzRiYzUtYWNjOC00ODRiLTgyMjktNDY0ZmJkN2ViYmE2IiwidCI6ImQ0OTRlMTEzLTUyOGUtNDBhYi05MGQ5LTE2MmRlMmZjYTNmMyIsImMiOjEwfQ%3D%3D **
 
 ---
 
